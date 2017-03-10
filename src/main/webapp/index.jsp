@@ -3,7 +3,7 @@
 <html class="no-js lt-ie9 lt-ie8"> <![endif]--> <!--[if IE 8]> <html class="no-js lt-ie9"> 
 <![endif]--> <!--[if gt IE 8]><!--> <html class="no-js"> 
 <!--<![endif]--> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Hello World! - My first Jelastic app</title> 
+<title>My Payara CI test</title> 
 <meta name="viewport" content="width=device-width"> 
 <link href='http://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet' type='text/css'>
 <link href="optimum/css/out.css" rel="stylesheet" type="text/css"/>
